@@ -1,0 +1,12 @@
+{
+  "name": "verb-toasts",
+  "version": "0.1.0",
+  "author": {
+    "name": "Sai Rudra"
+  },
+  "description": "One toast when a turn ends: files read, files edited, test runs, elapsed. No model calls.",
+  "displayName": "Verb Toasts",
+  "homepage": "https://github.com/saiharsha03/verb-toasts",
+  "repository": "https://github.com/saiharsha03/verb-toasts",
+  "license": "MIT"
+}

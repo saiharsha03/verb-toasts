@@ -1,0 +1,16 @@
+{
+  "name": "verb-toasts",
+  "owner": {
+    "name": "Sai Rudra"
+  },
+  "metadata": {
+    "description": "One toast when a turn ends: files read, files edited, test runs, elapsed. No model calls."
+  },
+  "plugins": [
+    {
+      "name": "verb-toasts",
+      "source": "./",
+      "description": "One toast when a turn ends: files read, files edited, test runs, elapsed. No model calls."
+    }
+  ]
+}
